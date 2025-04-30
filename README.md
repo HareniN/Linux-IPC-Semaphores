@@ -125,6 +125,8 @@ int main() {
 $ ./sem.o 
 
 ![img](./img/sem1.png)
+
+
 $ ipcs
 
 ![img](./img/sem2.png)
